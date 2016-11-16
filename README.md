@@ -3,6 +3,7 @@ SHA256
 
 Implementation of SHA256 algorithm
 
+How to Use:
 
 1.Complile the SHA256.JAVA class
 
